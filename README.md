@@ -45,5 +45,7 @@ These instructions are for **running the project locally** on your computer.
 1. **Clone the repository** (download it locally):
 
 ```bash
-git clone https://github.com/<rayane-rhsn>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/rayane-rhsn/Ready-tensor-module-1-project-RAG-assistant.git
+cd Ready-tensor-module-1-project-RAG-assistant
+
+
