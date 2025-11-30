@@ -1,21 +1,24 @@
 import unittest
-from src import app, vectordb
+from src.app import RAGAssistant  # Adjust class/function names if different
+from src.vectordb import VectorDB
 
 class TestRAGAssistant(unittest.TestCase):
 
-    def test_app_initialization(self):
-        """Test that the app can initialize without errors."""
-        try:
-            assistant = app.RAGAssistant()
-        except Exception as e:
-            self.fail(f"Initialization failed with exception: {e}")
+    def setUp(self):
+        # Initialize your objects here
+        self.db = VectorDB()
+        self.rag = RAGAssistant(self.db)
 
-    def test_vectordb_initialization(self):
-        """Test that the vector database can initialize."""
-        try:
-            db = vectordb.VectorDB()
-        except Exception as e:
-            self.fail(f"VectorDB initialization failed with exception: {e}")
+    def test_basic_functionality(self):
+        # Example test: check if RAGAssistant returns expected type
+        query = "Hello"
+        result = self.rag.query(query)  # Replace with your actual method
+        self.assertIsInstance(result, str)
 
-if __name__ == "__main__":
+    def test_vectordb_empty(self):
+        # Check that an empty VectorDB returns expected output
+        result = self.db.search("Nothing")
+        self.assertEqual(result, [])
+
+if __name__ == '__main__':
     unittest.main()
