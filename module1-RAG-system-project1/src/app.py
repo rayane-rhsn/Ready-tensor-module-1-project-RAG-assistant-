@@ -13,7 +13,10 @@ from langchain_core.document import Document
 load_dotenv("file.env")
 
 # Documents directory (can be overridden with env var)
-DOCUMENTS_DIR = os.getenv("DOCUMENTS_DIR", "./sample_docs")
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Build the path to the data folder in the repo
+documents_dir = os.path.join(base_dir, 'data', 'example_docs')
 
 
 def load_documents(documents_dir: str) -> List[str]:
