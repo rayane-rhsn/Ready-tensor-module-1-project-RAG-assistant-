@@ -1,0 +1,89 @@
+From Wikipedia, the free encyclopedia
+GAMA Platform
+GAMA Platform logo
+GAMA Platform IDE Screenshot
+Screenshot from the GAMA Platform 1.8.0
+Developer	IRD
+Initial release	October 2009; 16 years ago.[1]
+Stable release	
+2025-06 / July 3, 2025; 4 months ago[2]
+Repository	https://github.com/gama-platform/gama
+Written in	Java
+Operating system	Windows, macOS, Linux
+Platform	x86-64, ARM
+Size	170 ~ 375 MB
+Available in	English
+License	GPL3
+Website	http://gama-platform.org
+GAMA[3][4] (GIS Agent-based Modeling Architecture) is a simulation platform with a complete modelling and simulation integrated development environment (IDE) for writing and experimenting spatially explicit agent-based models.[5][6]
+
+About
+The GAMA Platform is agent-based modeling software that was originally (2007–2010) developed by the Vietnamese-French research team MSI (located at IFI, Hanoi, and part of the IRD - SU International Research Unit UMMISCO). It is now developed by an international consortium of academic and industrial partners led by UMMISCO Archived 2022-01-23 at the Wayback Machine, including INRAE, the University of Toulouse 1, the University of Rouen, the University of Orsay, the University of Can Tho, Vietnam, the National University of Hanoi, EDF R&D, CEA LISC, and MIT Media Lab.[6]
+
+GAMA was designed to allow domain experts without a programming background to model phenomena from their field of expertise.[7]
+
+The GAMA environment enables exploration of emergent phenomena. It comes with a models library including examples from several domains, such as economics, biology, physics, chemistry, psychology, and system dynamics.[8] The GAMA simulation panel allows exploration by modifying switches, sliders, choosers, inputs, and other user interface elements that the modeler chooses to make available.[9]
+
+Technical foundation
+GAMA Platform is free and open-source software, released under a GNU General Public License (GPL3).[10] It is written in Java and runs on the Java virtual machine (JVM).[11] All core components and extensions are written in Java, but end users do not need to work in Java at all if they use a published build of the platform; instead, they would write all models using GAML (described below).
+
+Multiple application domains
+GAMA was developed with a very general approach and can be used for many application domains.[5] GAMA is mostly present in applications domains like transport,[12][13][14][15][16] urban planning,[14][15][16] disaster response,[17] epidemiology,[18][19][20] analysis of multirobot systems,[21][22] and the environment,[14][15][16] with special emphasis on analyses that use GIS data.[23][24]
+
+High-level agent-based language
+GAML (GAma Modeling Language) is the dedicated language used in GAMA. It is an agent-based language, that provides the possibility to build a model with several paradigms of modeling.[5]
+
+This high-level language was inspired by Smalltalk and Java, GAMA has been developed to be used by non-computer scientists.[5]
+
+User interface
+Modelers may use many visual representations for the same model, in order to highlight a certain aspect of a simulation. These include 2D/3D displays, with basic control of lighting, textures, and cameras. Standard charts such as series plots may also be constructed.[5]
+
+Project examples
+The developers maintain a community-sourced list of scientific projects that use GAMA.[25]
+
+Some of the larger efforts include:
+
+Hoan Kiem Air:[14] Agent based modeling and simulation of the urban management on traffic and air pollution through tangible interface.
+Proxymix:[26] Visualization tool about the influence of spatial configuration on human collaboration.
+CityScope Champs-Elysées:[15] An interactive platform to improve decision-making related to the revitalization of the Champs Élysées.
+ESCAPE:[16] A Multi-modal Urban Traffic Agent-Based Framework to Study Individual Response to Catastrophic Events.
+COMOKIT:[19][20] Generic model of public policies to contain the spread of COVID-19 epidemics in a city, validated on the basis of different case studies.
+Users
+Several academic institutions teach modeling and simulation courses based on GAMA. It is taught in the Urban Simulation class at the Potsdam University of Applied Sciences,[27] and at the University of Salzburg.[28] It is also used and taught annually at the Multi-platform International Summer School on Agent-Based Modelling & Simulation.[29]
+
+See also
+Agent-based model
+Comparison of agent-based modeling software
+NetLogo
+Repast (modeling toolkit)
+MASON (Java)
+References
+ "GAMA 1.1". GAMA Documentation.
+ "Home of GAMA development". Github.
+ Taillandier, Patrick; Gaudou, Benoit; Grignard, Arnaud; Huynh, Quang-Nghi; Marilleau, Nicolas; Caillou, Philippe; Philippon, Damien; Drogoul, Alexis (April 2019). "Building, composing and experimenting complex spatial models with the GAMA platform" (PDF). GeoInformatica. 23 (2). Springer US: 299–322. doi:10.1007/s10707-018-00339-6. ISSN 1573-7624. S2CID 134137907.
+ Grignard, Arnaud; Taillandier, Patrick; Gaudou, Benoit; Vo, Duc An; Huynh, Quand-Nghi; Drogoul, Alexis (2013). "GAMA 1.6: Advancing the Art of Complex Agent-Based Modeling and Simulation" (PDF). PRIMA 2013: Principles and Practice of Multi-Agent Systems. Lecture Notes in Computer Science. Vol. 8291. Springer. pp. 117–131. doi:10.1007/978-3-642-44927-7_9. ISBN 978-3-642-44926-0.
+ "GAMA · GAMA-Platform". gama-platform.github.io. Retrieved 1 November 2019.  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+ "Introduction · GAMA-Platform". gama-platform.github.io. Retrieved 1 November 2019.  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+ Taillandier, Patrick; Gaudou, Benoit; Grignard, Arnaud; Huynh, Quang-Nghi; Marilleau, Nicolas; Caillou, Philippe; Philippon, Damien; Drogoul, Alexis (December 23, 2018), "Building, Composing and Experimenting Complex Spatial Models with the GAMA Platform" (PDF), GeoInformatica, 23 (2): 299–322, doi:10.1007/s10707-018-00339-6, S2CID 134137907
+ "Tutorials". GAMA-Platform. Retrieved 2019-10-30.
+ "Controls of experiments". GAMA-Platform. Retrieved 2019-10-30.
+ "gama/LICENSE at master - gama-platform/gama". Github. 29 April 2020.
+ "Architecture of GAMA". GAMA-Platform.
+ Kaziyeva, Dana; Wallentin, Gudrun; Loidl, Martin; Mohr, Stefan; Neuwirth, Christian (2018). "Reviewing Software for Agent-based Bicycle Flow Models". GI Forum. 6.
+ Hutzler, Guillaume; Klaudel, Hanna; Sali, Abderrahmane (2020). "Filtering Distributed Information to Build a Plausible Scene for Autonomous and Connected Vehicles". 17th International Conference on Distributed Computing and Artificial Intelligence.
+ "WARMTeam/HoanKiemAir". Github. Hanoi, Vietnam: WARM Team. Retrieved 2019-10-30.
+ "CityScope Champs_Elysées: An interactive platform to improve decision-making related to the revitalization of the Champs Élysées". MIT Media Lab. MIT. Retrieved 2020-03-30.
+ Chapuis, Kevin; Taillandier, Patrick; Gaudou, Benoit; Drogoul, Alexis; Daudé, Eric (2018), "A Multi-modal Urban Traffic Agent-Based Framework to Study Individual Response to Catastrophic Events", PRIMA 2018: Principles and Practice of Multi-Agent Systems (PDF), Lecture Notes in Computer Science, vol. 11224, Springer, Cham (published 24 October 2018), pp. 440–448, doi:10.1007/978-3-030-03098-8_28, ISBN 978-3-030-03097-1, S2CID 53084730
+ Alonso Vicario, S; Mazzoleni, M; Bhamidipati, S; Gharesifard, M; Ridolfi, E; Pandolfo, C; Alfonso, L (2020). "Unraveling the influence of human behaviour on reducing casualties during flood evacuation". Hydrological Sciences Journal. 65 (14): 2359–2375. doi:10.1080/02626667.2020.1810254. hdl:11573/1626577.
+ Jindal, Akshay (2017). "Agent-Based Modeling and Simulation of Mosquito-Borne Disease Transmission". Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2017).
+ "CoViD19". gama-platform.github.io. GAMA Team. Archived from the original on 2020-05-02. Retrieved 2020-02-15.
+ "COMOKIT". github.com. Hanoi, Vietnam: COMOKIT Team. Retrieved 2020-02-15.
+ Humann, James; Spero, Eric (2018). "Modeling and simulation of multi-UAV, multi-operator surveillance systems". 2018 Annual IEEE International Systems Conference (SysCon). pp. 1–8. doi:10.1109/SYSCON.2018.8369546. ISBN 978-1-5386-3664-0. S2CID 44133459.
+ Humann, James; Pollard, Kimberly (2019). "Human Factors in the Scalability of Multirobot Operation: A Review and Simulation". 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC). pp. 700–707. doi:10.1109/SMC.2019.8913876. ISBN 978-1-7281-4569-3. S2CID 208630260.
+ Thierry, Hugo; Rogers, Haldre (2020). "Where to rewild? A conceptual framework to spatially optimize ecological function". Proceedings of the Royal Society B. 287 (1922). doi:10.1098/rspb.2019.3017. PMC 7126074. PMID 32126955.
+ Abar, Sameera; Theodoropoulos, Georgios K; Lemarinier, Pierre; O'Hare, Gregory (2017). "Agent Based Modelling and Simulation tools: A review of the state-of-art software". Computer Science Review. 24: 13–33. doi:10.1016/j.cosrev.2017.03.001.
+ "GAMA-platform References". gama-platform.github.io. Retrieved 18 August 2020.
+ "Proxymix: Influence of spatial configuration on human collaboration". MIT Media Lab. MIT. Retrieved 2019-10-30.
+ Szczepanska, Timo; Priebe, Max; Schroder, Tobias (2020). Teaching the Complexity of Urban Systems with Participatory Social Simulation. Springer.
+ "UNIGIS Summer School Spatial Simulation Modelling".
+ "Multi-platform International Summer School on Agent-Based Modelling & Simulation for Renewable Resources Management". Archived from the original on 2020-09-23. Retrieved 2020-10-08.

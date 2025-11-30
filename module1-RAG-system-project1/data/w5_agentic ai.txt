@@ -1,0 +1,54 @@
+From Wikipedia, the free encyclopedia
+
+It has been suggested that this article be merged into Intelligent agent. (Discuss) Proposed since May 2025.
+
+Some of this article's listed sources may not be reliable. Please help improve this article by looking for better, more reliable sources. Unreliable citations may be challenged and removed. (June 2025) (Learn how and when to remove this message)
+In artificial intelligence, agentic AI focuses on autonomous systems that can make decisions and perform tasks with limited or no human intervention. The independent systems automatically respond to conditions to produce process results. The field is closely linked to agentic automation, also known as agent-based process management systems, when applied to process automation. Applications include software development, customer support, cybersecurity and business intelligence.
+
+Overview
+The core concept of agentic AI is the use of AI agents to perform automated tasks with limited human intervention.[1] While robotic process automation (RPA) systems automate rule-based, repetitive tasks with fixed logic, agentic AI adapts based on data inputs.[2] Agentic AI refers to autonomous systems capable of pursuing complex goals with minimal human intervention, often making decisions based on continuous learning and external data.[3] Functioning agents can require various AI techniques, such as natural language processing, machine learning (ML), and computer vision, depending on the environment.[1]
+
+History
+Main article: History of artificial intelligence
+The term 'agent-based process management system' was first used in 1998 to describe autonomous agents for business process management.[4]
+
+Applications
+Web browsing
+Web browsers with integrated AI agents are sometimes called agentic browsers. Such agents can perform small tedious tasks during web browsing and potentially even perform browser actions on behalf of the user. Products like OpenAI Operator and Perplexity Comet integrate a spectrum of AI capabilities including the ability to browse the web, interact with websites and perform actions on behalf of the user.[5][6][7] In 2025, Microsoft launched NLWeb, an agentic web search replacement that would allow websites to use agents to query content from websites by using RSS-like interfaces that allow for the lookup and semantic retrieval of content.[8] Products integrating agentic web capabilities have been criticised for exfiltrating information about their users to third-party servers[9] and exposing security issues since the way the agents communicate often occur through non-standard protocols.[8]
+
+See also
+Intelligent agent
+Model Context Protocol
+Rational agent
+Robotic process automation
+Software agent
+References
+ Miller, Ron (December 15, 2024). "What exactly is an AI agent?". TechCrunch. This lack of a cohesive definition does leave room for confusion over exactly what these things are going to do, but regardless of how they're defined, the agents are for helping complete tasks in an automated way with as little human interaction as possible.
+ Colson, Abby (July 22, 2025). "AI agents vs. RPA: A guide for accountants". Tax & Accounting Blog Posts by Thomson Reuters. Retrieved August 27, 2025.
+ Hosseini, Soodeh; Seilani, Hossein (July 1, 2025). "The role of agentic AI in shaping a smart future: A systematic review". Array. 26 100399. doi:10.1016/j.array.2025.100399. ISSN 2590-0056.
+ O'Brien, P. D.; Wiegand, M. E. (July 1998). "Agent based process management: applying intelligent agents to workflow". The Knowledge Engineering Review. 13 (2): 161–174. doi:10.1017/S0269888998002070.
+ Circelli, Ruben (August 5, 2025). "I Switched to Perplexity's AI Comet Browser for a Week. Is It the Future or Just Hype?". PCMAG. Retrieved August 9, 2025.
+ Roose, Kevin (February 1, 2025). "How Helpful Is Operator, OpenAI's New A.I. Agent?". The New York Times. Retrieved August 9, 2025.
+ Wallen, Jack (July 7, 2025). "I loved Arc browser and was skeptical of its agentic Dia replacement - until I tried it". ZDNET. Retrieved August 9, 2025.
+ Warren, Tom (August 6, 2025). "Microsoft's plan to fix the web with AI has already hit an embarrassing security flaw". The Verge. Retrieved August 9, 2025.
+ Vekaria, Yash; Canino, Aurelio Loris; Levitsky, Jonathan; Ciechonski, Alex; Callejo, Patricia; Mandalari, Anna Maria; Shafiq, Zubair (June 10, 2025), Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants, arXiv:2503.16586
+vte
+Artificial intelligence (AI)
+History timelineGlossaryCompaniesProjects
+Concepts	
+Parameter HyperparameterLoss functionsRegression Bias–variance tradeoffDouble descentOverfittingClusteringGradient descent SGDQuasi-Newton methodConjugate gradient methodBackpropagationAttentionConvolutionNormalization BatchnormActivation SoftmaxSigmoidRectifierGatingWeight initializationRegularizationDatasets AugmentationPrompt engineeringReinforcement learning Q-learningSARSAImitationPolicy gradientDiffusionLatent diffusion modelAutoregressionAdversaryRAGUncanny valleyRLHFSelf-supervised learningReflectionRecursive self-improvementHallucinationWord embeddingVibe codingSafety (Alignment)
+Applications	
+Machine learning In-context learningArtificial neural network Deep learningLanguage model LargeNMTReasoningModel Context ProtocolIntelligent agentArtificial human companionHumanity's Last ExamArtificial general intelligence (AGI)
+Implementations	
+Audio–visual	
+AlexNetWaveNetHuman image synthesisHWROCRComputer visionSpeech synthesis 15.aiElevenLabsSpeech recognition WhisperFacial recognitionAlphaFoldText-to-image models AuroraDALL-EFireflyFluxIdeogramImagenMidjourneyRecraftStable DiffusionText-to-video models Dream MachineRunway GenHailuo AIKlingSoraVeoMusic generation RiffusionSuno AIUdio
+Text	
+Word2vecSeq2seqGloVeBERTT5LlamaChinchilla AIPaLMGPT 123JChatGPT44oo1o34.54.1o4-mini55.1ClaudeGemini Gemini (language model)GemmaGrokLaMDABLOOMDBRXProject DebaterIBM WatsonIBM WatsonxGranitePanGu-ΣDeepSeekQwen
+Decisional	
+AlphaGoAlphaZeroOpenAI FiveSelf-driving carMuZeroAction selection AutoGPTRobot control
+People	
+Alan TuringWarren Sturgis McCullochWalter PittsJohn von NeumannChristopher D. ManningClaude ShannonShun'ichi AmariKunihiko FukushimaTakeo KanadeMarvin MinskyJohn McCarthyNathaniel RochesterAllen NewellCliff ShawHerbert A. SimonOliver SelfridgeFrank RosenblattBernard WidrowJoseph WeizenbaumSeymour PapertSeppo LinnainmaaPaul WerbosGeoffrey HintonJohn HopfieldJürgen SchmidhuberYann LeCunYoshua BengioLotfi A. ZadehStephen GrossbergAlex GravesJames GoodnightAndrew NgFei-Fei LiAlex KrizhevskyIlya SutskeverOriol VinyalsQuoc V. LeIan GoodfellowDemis HassabisDavid SilverAndrej KarpathyAshish VaswaniNoam ShazeerAidan GomezJohn SchulmanMustafa SuleymanJan LeikeDaniel KokotajloFrançois Chollet
+Architectures	
+Neural Turing machineDifferentiable neural computerTransformer Vision transformer (ViT)Recurrent neural network (RNN)Long short-term memory (LSTM)Gated recurrent unit (GRU)Echo state networkMultilayer perceptron (MLP)Convolutional neural network (CNN)Residual neural network (RNN)Highway networkMambaAutoencoderVariational autoencoder (VAE)Generative adversarial network (GAN)Graph neural network (GNN)
+ Category
+Category: Artificial intelligence

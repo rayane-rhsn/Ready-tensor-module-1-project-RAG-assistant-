@@ -1,0 +1,55 @@
+From Wikipedia, the free encyclopedia
+An autonomous agent is an artificial intelligence (AI) system that can perform complex tasks independently.[1]
+
+Definitions
+There are various definitions of autonomous agent. According to Brustoloni (1991):
+
+"Autonomous agents are systems capable of autonomous, purposeful action in the real world."[2]
+
+According to Maes (1995):
+
+"Autonomous agents are computational systems that inhabit some complex dynamic environment, sense and act autonomously in this environment, and by doing so realize a set of goals or tasks for which they are designed."[3]
+
+Franklin and Graesser (1997) review different definitions and propose their definition:
+
+"An autonomous agent is a system situated within and a part of an environment that senses that environment and acts on it, over time, in pursuit of its own agenda and so as to effect what it senses in the future."[4]
+
+They explain that:
+
+"Humans and some animals are at the high end of being an agent, with multiple, conflicting drives, multiples senses, multiple possible actions, and complex sophisticated control structures. At the low end, with one or two senses, a single action, and an absurdly simple control structure we find a thermostat."[4]
+
+Agent appearance
+Lee et al. (2015) post safety issue from how the combination of external appearance and internal autonomous agent have impact on human reaction about autonomous vehicles. Their study explores the human-like appearance agent and high level of autonomy are strongly correlated with social presence, intelligence, safety and trustworthiness. In specific, appearance impacts most on affective trust while autonomy impacts most on both affective and cognitive domain of trust where cognitive trust is characterized by knowledge-based factors and affective trust is largely emotion driven.[5]
+
+Applications
+Agentic AI systems: Advanced AI agents that can scope out projects and complete them with necessary tools, representing a significant evolution from simple task-oriented systems.[6]
+Internet of things (IoT) Integration: Autonomous agents increasingly interact with IoT devices, enabling smart home systems, industrial monitoring, and urban infrastructure management.[7]
+Collaborative software development: Tools like Cognition AI's Devin aim to create autonomous software engineers capable of complex reasoning, planning, and completing engineering tasks requiring thousands of decisions.[8]
+Challenges and considerations
+Uncertainty and incomplete information: Autonomous agents must make decisions with limited or uncertain information about their environment and future states.[9]
+Integration complexity: Incorporating autonomous agents into existing systems and workflows can be technically challenging and resource-intensive.[10][11]
+Scalability: As systems become more complex and more agents are used, maintaining coordination and avoiding conflicts becomes increasingly difficult.[12]
+See also
+Actor model
+Ambient intelligence
+AutoGPT
+Autonomous agency theory
+Chatbot
+Embodied agent
+Intelligent agent
+Intelligent control
+Multi-agent system
+Software agent
+References
+ "Autonomous Agent". Techopedia. April 11, 2024. Retrieved November 6, 2024.
+ Brustoloni, Jose C. (1991). Autonomous Agents: Characterization and Requirements, Carnegie Mellon Technical Report CMU-CS-91-204. Carnegie Mellon University.
+ Maes, Pattie (1995). "Artificial life meets entertainment". Communications of the ACM. 38 (11). Association for Computing Machinery (ACM): 108–114. doi:10.1145/219717.219808. ISSN 0001-0782. S2CID 8122852.
+ Franklin, Stan; Graesser, Art (1997). "Is It an agent, or just a program?: A taxonomy for autonomous agents". Intelligent Agents III Agent Theories, Architectures, and Languages. Berlin, Heidelberg: Springer Berlin Heidelberg. pp. 21–35. doi:10.1007/bfb0013570. ISBN 978-3-540-62507-0. ISSN 0302-9743.
+ Lee, Jae-Gil (Summer 2015). "Can Autonomous Vehicles Be Safe and Trustworthy? Effects of Appearance and Autonomy of Unmanned Driving Systems". International Journal of Human-Computer Interaction. 31 (10): 682–691. doi:10.1080/10447318.2015.1070547. S2CID 36605301.
+ "AI Agents in 2025: Expectations vs. Reality". IBM. March 4, 2025. Retrieved August 7, 2025.
+ Onome (August 21, 2024). "State of AI Agents in 2024". AutoGPT. Retrieved August 7, 2025.
+ Loucks, Jeff; Crossan, Gillian; Sarer, Baris; Widener, China; Becaille, Ariane (November 9, 2024). "Autonomous generative AI agents: Under development". Deloitte Insights. Retrieved August 7, 2025.
+ Scholes, Myron S. (January 1, 2025). "Artificial intelligence and uncertainty". Risk Sciences. 1: 100004. doi:10.1016/j.risk.2024.100004. ISSN 2950-6298.
+ bambulge, Pratiksha (September 15, 2025). "How AI Agents Are Revolutionizing Software Development Workflows". Terralogic. Retrieved November 20, 2025.
+ Dungay, David (January 27, 2025). "Bridging the AI Adoption Gap: Employee Resistance and High Costs Remain a Challenge". UC Today. Retrieved November 20, 2025.
+ "AI agents: Exploring the potential and the problems". BBC. June 9, 2025. Retrieved November 20, 2025.
